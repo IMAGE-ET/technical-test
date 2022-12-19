@@ -2,7 +2,7 @@
 
 ## Enoncé
 
-Le désormais célèbre jeu de quille (Molkky)[https://www.molkky.com/wp/regles-de-jeu/] consiste à lancer le Molky (baton de bois) pour faire tomber des quilles numéroté de 1 à 12, afin d’arriver à un score de 50 pile. Bust (dépasser la limite) n’élimine pas le joueur, mais le ramène à 25 points.
+Le désormais célèbre jeu de quille [Molkky](https://www.molkky.com/wp/regles-de-jeu/) consiste à lancer le Molky (baton de bois) pour faire tomber des quilles numéroté de 1 à 12, afin d’arriver à un score de 50 pile. Bust (dépasser la limite) n’élimine pas le joueur, mais le ramène à 25 points.
 
 Le compte des points se fait comme suit :
 
