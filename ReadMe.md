@@ -12,6 +12,6 @@ Pas de quille tombés = 0 points. 3 échecs d’affilés éliminent le joueur
 
 Votre tache est de créer un outil pour la gestion des scores. Cet outil peut être un site web, un CLI, ou autre. La quantité d’actions possibles pour gérer une partie ainsi que la forme de ces dernières sont laissés au choix du candidat.
 
-# Rendu
+## Rendu
 
 Le rendu prendra la forme d'un repository git public, doté d'un Readme, afin que le correcteur puisse expérimenter sur votre proposition.
